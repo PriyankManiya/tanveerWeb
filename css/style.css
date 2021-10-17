@@ -828,7 +828,8 @@ img{
 .header-top-two .top-left{
 	position:relative;
 	padding:18px 0px;
-	float:left;
+	/* float:left; */
+	text-align: center;
 }
 
 .header-top-two .top-left .links{
@@ -3071,7 +3072,7 @@ img{
 .main-footer .gallery-widget .image-box{
 	position:relative;
 	float:left;
-	width:33.3333%;
+	width:58.3333%;
 	padding:0px 4px;
 	margin-bottom:8px;
 }
